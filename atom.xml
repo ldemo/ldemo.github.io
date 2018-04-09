@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://github.com/ldemo/"/>
+  <link href="https://github.com/ldemo/"/>
   <updated>2018-04-09T13:23:55.926Z</updated>
-  <id>http://github.com/ldemo/</id>
+  <id>https://github.com/ldemo/</id>
   
   <author>
     <name>一路有晴天</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>test</title>
-    <link href="http://github.com/ldemo/2018/04/08/test/"/>
-    <id>http://github.com/ldemo/2018/04/08/test/</id>
+    <link href="https://github.com/ldemo/2018/04/08/test/"/>
+    <id>https://github.com/ldemo/2018/04/08/test/</id>
     <published>2018-04-08T14:27:37.000Z</published>
     <updated>2018-04-09T13:23:55.926Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://github.com/ldemo/2018/04/08/hello-world/"/>
-    <id>http://github.com/ldemo/2018/04/08/hello-world/</id>
+    <link href="https://github.com/ldemo/2018/04/08/hello-world/"/>
+    <id>https://github.com/ldemo/2018/04/08/hello-world/</id>
     <published>2018-04-08T08:15:15.907Z</published>
     <updated>2018-04-08T08:15:15.907Z</updated>
     
